@@ -1,0 +1,54 @@
+
+.banner{
+  background-image: url('../image/Banner Image.png');
+  width: 1250px;
+  height: 600px; 
+  margin:50px 100px;
+  opacity: .8;
+  border-radius: 16px;
+}
+.banner-text{
+color:white;
+  text-align:center;
+  padding-top:150px ;
+  font-size: 32px;
+  font-weight: 400;
+}
+.banner-title{
+  color:white;
+  font-size: 72px;
+  font-weight: 900;
+  text-align:center;
+  width:632px;
+  height:190px;
+  padding-left:320px
+}
+.section-heading{
+color: #F00;
+text-align: center;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+
+}
+.company-manner{
+  color: #F00;
+text-align: center;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+
+}
+.category{
+  color: #070211;
+text-align: center;
+font-size: 48px;
+font-weight: 700;
+
+}
+.new-year-photo{
+  width: 802.9px;
+height: 500px;
+padding-left:300px;
+
+}
