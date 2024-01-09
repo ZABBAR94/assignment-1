@@ -52,3 +52,81 @@ height: 500px;
 padding-left:300px;
 
 }
+.party-greeting{
+  background-image: url('../image/Vectorrr.png');
+  width: 1000px;
+ height: 600px;
+ border-radius: 16px;
+ padding-left: 320px;
+ margin:50px 100px ;
+}
+.greeting{
+  color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-weight: 900;
+line-height: 88px;
+padding-right: 200px;
+padding-top: 10px;
+ 
+
+}
+.greeting-description{
+  color:white;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; 
+padding-right: 200px;
+padding-top: 0px;
+}
+.join{
+  // Join Now
+  color: white;
+   font-size: 20px;
+   font-family: Inter;
+   font-weight: 700;
+   text-transform: uppercase;
+   word-wrap: break-word
+}
+.celebrating{
+  height:600px;
+  width:1250px;
+    background: linear-gradient(to bottom, #ffcc00, #ff6600);
+    text-align: center;
+    padding-top: 120px;
+    margin-left: 140px;
+  }
+  .primary-btn{
+    margin-top: 20px;
+  }
+  .container{
+    display: flex;
+    gap:40px;
+    padding-top: 120px;
+  }
+ 
+  .offer-title{
+    color:#ff6600;
+    padding-left: 140px;
+    padding-top: 80px;
+  }
+.offer-heading{
+  padding-left: 140px;
+}
+.year{
+  color:#F00;
+  padding-top: 80px;
+}
+
+.offer-description{
+  width:300px;
+  height:130px;
+  padding-left: 140px;
+  text-align: justify;
+}
+.year-description{
+  width:270px;
+  height:90px;
+  text-align: justify;
+}
